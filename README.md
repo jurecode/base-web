@@ -14,6 +14,13 @@ una palabra y el sitio sube o baja de GitHub, sin FTP y sin consola.
 
 De ahí en adelante, todo se hace con palabras desde el panel.
 
+## Dominio que ya tiene sitio
+
+Si la carpeta del dominio ya está funcionando, el paso 4 cambia: en vez de
+, escribe ****. Enlaza la carpeta con GitHub sin pisar nada
+(sólo baja lo que falte) y después  deja en GitHub el sitio tal como
+está en el servidor.
+
 ## Palabras
 
 | Palabra | Qué hace |
