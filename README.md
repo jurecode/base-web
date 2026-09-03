@@ -17,8 +17,8 @@ De ahí en adelante, todo se hace con palabras desde el panel.
 ## Dominio que ya tiene sitio
 
 Si la carpeta del dominio ya está funcionando, el paso 4 cambia: en vez de
-, escribe ****. Enlaza la carpeta con GitHub sin pisar nada
-(sólo baja lo que falte) y después  deja en GitHub el sitio tal como
+`traer`, escribe **`instalar`**. Enlaza la carpeta con GitHub sin pisar nada
+(sólo baja lo que falte), y después `subir` deja en GitHub el sitio tal como
 está en el servidor.
 
 ## Palabras
@@ -30,6 +30,7 @@ está en el servidor.
 | `subir cambié el logo` | igual, pero deja escrito qué hiciste |
 | `traer` | guarda lo tuyo y baja lo nuevo de GitHub |
 | `traer github` | deja la carpeta igual que GitHub; lo de aquí queda guardado aparte |
+| `instalar` | enlaza con GitHub un sitio que ya está en el servidor, sin pisar nada |
 | `ayuda` | la lista de palabras |
 | `salir` | cierra la sesión |
 
